@@ -7,5 +7,7 @@ i did my best to make it clear how wiring it irl would be like.
 # 3d model
 <img width="938" height="443" alt="Screenshot 2026-06-02 193909" src="https://github.com/user-attachments/assets/2e5278fd-bc44-478a-8fdb-237f2d6c6537" />
 <img width="1071" height="653" alt="image" src="https://github.com/user-attachments/assets/0ea516d8-1a1f-4794-b8ba-c939f7a91c4a" />
+
 # Zine
+
 <img width="1754" height="2480" alt="ZINE2" src="https://github.com/user-attachments/assets/500804ff-90b0-4cf6-b2fd-3a8fc6398d8d" />
