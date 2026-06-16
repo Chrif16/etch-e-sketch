@@ -1,4 +1,4 @@
-# etch-a-sketch
+# etch-E-sketch
 an etch a sketch toy inspired project that lets you use two knobs to draw on an oled screen; the right knob lets you move to pixel horizontally and the left knob lets you move it vertically and when you press the two knobs simultaneiously the screen clears.i made it because when i was a kid i would always see people on youtube using theirs to make amazing drwing like the monalisa and such so i really wanted to do that too but i didnt have it so i made it using electronic components instead.  <img width="1920" height="632" alt="assembly33" src="https://github.com/user-attachments/assets/e6471161-2ea7-49d5-bbf0-c13ee36a1ec4" />
 
  # schematic
