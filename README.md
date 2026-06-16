@@ -12,7 +12,9 @@ I did my best to make it clear how wiring it irl would be like.
 <img width="946" height="432" alt="Screenshot 2026-06-15 182453" src="https://github.com/user-attachments/assets/35aafe28-7b0d-4054-84a9-3f038e0e664e" />
 <img width="928" height="437" alt="Screenshot 2026-06-15 182509" src="https://github.com/user-attachments/assets/9872af61-9f6c-4167-b279-0efb999e7630" />
 the components are mounted on the lid and on the case with screws or nuts and bolts
+
 # code
+
 the program constantly reads if the the rotary encoders moved and detects which way it moved and draws on the screen based on the direction and which rotary encoder moved
 <img width="961" height="837" alt="image" src="https://github.com/user-attachments/assets/6a0b2196-1260-4cf4-867d-81f639d7e56b" />
 
